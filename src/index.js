@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Add more questions here
   ];
   const quizDuration = 120; // 120 seconds (2 minutes)
-
+  
 
   /************  QUIZ INSTANCE  ************/
   
